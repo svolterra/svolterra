@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there! I'm Sarah! 👋
+- 🔭 I’m currently working on finishing my third year at the University of British Columbia! 
+I'm also searching for personal project ideas as well.
+- 💬 Ask me about: anything!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm from Egypt! I also have a twin.
+
 
 <!--
 **svolterra/svolterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
