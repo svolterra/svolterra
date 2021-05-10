@@ -1,14 +1,26 @@
-### Hello there! I'm Sarah! 👋
-- 🔭 I’m currently working on finishing my third year at the University of British Columbia! 
-I'm also searching for personal project ideas as well.
-- 💬 Ask me about: anything!
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm from Egypt! I also have a twin.
+##✨Hello there!✨ 
+
+
+####🌸 ABOUT ME 🌸
+
+**MAJOR:** Cognitive Systems (COGS): Computational Intelligence and Design
+
+**UNIVERSITY**: University of British Columbia (UBC) 
+
+**CURRENTLY WORKING ON**: Building my own website!
+
+**INTERESTS**: 
+* Programming 💻 
+* Baking 🎂 
+* Writing 📝 
+* Photography 📸
+
 
 
 <!--
 **svolterra/svolterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🎀 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,5 +32,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+####✨ACADEMIC PROJECTS✨
+
+
+* [The HomeWok App] (https://github.students.cs.ubc.ca/CPSC210-2020W-T1/project_r1b3b)
+
+####🌼DEVPOST HACKATHON PROJECT SUBMISSIONS🌼
+
+* [nwHacks Click-to-Smile Project] (https://devpost.com/software/click-to-smile)
+
+* [cmd-f Pomodorobo Study Buddy] (https://devpost.com/software/pomodorobo-study-buddy)
+
+
+
+
+
 
 
