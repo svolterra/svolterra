@@ -1,11 +1,13 @@
-##✨Hello there!✨ 
+## ✨Hello there!✨ 
 
 
-####🌸 ABOUT ME 🌸
+### 🌸 ABOUT ME 🌸
 
 **MAJOR:** Cognitive Systems (COGS): Computational Intelligence and Design
 
 **UNIVERSITY**: University of British Columbia (UBC) 
+
+**CURRENTLY LEARNING**: Web development, machine learning 
 
 **CURRENTLY WORKING ON**: Building my own website!
 
@@ -33,16 +35,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-####✨ACADEMIC PROJECTS✨
+---
+
+### ✨ACADEMIC PROJECTS✨
 
 
-* [The HomeWok App] (https://github.students.cs.ubc.ca/CPSC210-2020W-T1/project_r1b3b)
+* [The HomeWok App](https://github.students.cs.ubc.ca/CPSC210-2020W-T1/project_r1b3b)
 
-####🌼DEVPOST HACKATHON PROJECT SUBMISSIONS🌼
+---
 
-* [nwHacks Click-to-Smile Project] (https://devpost.com/software/click-to-smile)
+### 🌼DEVPOST HACKATHON PROJECT SUBMISSIONS🌼
 
-* [cmd-f Pomodorobo Study Buddy] (https://devpost.com/software/pomodorobo-study-buddy)
+* [nwHacks Click-to-Smile Project](https://devpost.com/software/click-to-smile)
+
+* [cmd-f Pomodorobo Study Buddy](https://devpost.com/software/pomodorobo-study-buddy)
+
 
 
 
