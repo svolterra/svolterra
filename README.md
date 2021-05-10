@@ -11,11 +11,7 @@
 
 **CURRENTLY WORKING ON**: Building my own website!
 
-**INTERESTS**: 
-* Programming 💻 
-* Baking 🎂 
-* Writing 📝 
-* Photography 📸
+**INTERESTS**: Programming 💻  | Baking 🎂  | Writing 📝  | Photography 📸
 
 
 
