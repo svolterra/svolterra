@@ -33,13 +33,6 @@ Here are some ideas to get you started:
 
 ---
 
-### ✨ACADEMIC PROJECTS✨
-
-
-* [The HomeWok App](https://github.students.cs.ubc.ca/CPSC210-2020W-T1/project_r1b3b)
-
----
-
 ### 🌼DEVPOST HACKATHON PROJECT SUBMISSIONS🌼
 
 * [nwHacks Click-to-Smile Project](https://devpost.com/software/click-to-smile)
